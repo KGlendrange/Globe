@@ -13,3 +13,5 @@ With some vector math and matrix dot products you can create some cool shaders, 
 The moon was added as an afterthought and while it is geolocked to the earths orbit it is not spinning on its own and the scaling and distance to earth is not up to par.
 
 It is animated to slowly spin around, but you can also drag the mouse around to get different angles, which is handled by the ThreeJS OrbitControls. 
+
+Preview: https://imgur.com/a/ojdnoaP
